@@ -2,6 +2,7 @@
 La seconde guerre mondiale est sans aucun doute l'événement le plus marquant de notre histoire.
 Tout commence le 1er septembre 1939 avec l'invasion de la Pologne par l'Allemagne Nazi, cette invasion sera considéré comme l'élément déclencheur de la SGM.
 ![Cover](https://github.com/SARRAZIN-Valentin-23003193/Markdown-TD1/blob/main/allemagnepologne.jpeg)
+
 ### - 3 septembre 1939 
 Honorant leur garantie des frontières de la Pologne, la Grande-Bretagne et la France déclarent la guerre à l’Allemagne.
 ### - 17 septembre 1939 
